@@ -1,2 +1,2 @@
-# The-Clumptimester
-Phone number, IP and email OSINT Tool
+# TheClumptimester
+Looking for collaborators to develope this project
